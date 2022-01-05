@@ -140,7 +140,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"Appuyez sur ESPACE pour rejoindre la conversation :)"
+                         "value":"Appuyez sur ESPACE pour rejoindre la r\u00e9union"
                         }],
                  "type":"tilelayer",
                  "visible":true,
